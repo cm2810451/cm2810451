@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cm2810451
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning ios developing
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 How to reach me cm2810451@gmail.com
 
 <!---
